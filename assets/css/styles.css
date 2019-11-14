@@ -22,7 +22,7 @@
 
 header {
     display: block;
-    background:rgb(130, 217, 243);
+    background: white;
 }
 
 #headerContainer {
@@ -72,7 +72,7 @@ footer {
  */
 .main-div-footer {
     
-    background:rgb(130, 217, 243);
+    background:white;
     width: 100%;
     height: 100px;
     margin-top:  0px;
